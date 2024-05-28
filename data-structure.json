@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Choose the zone where you will travel to",
+        "response": "AFRICA/EUROPE/MIDDLE-EAST",
+        "buttonId": 0,
+        "buttonValue": 23000
+    },
+    {
+        "question": "How long will your stay be? Choose from the options below",
+        "response": "63-93 days",
+        "buttonId": 0,
+        "buttonValue": 45000
+    },
+    {
+        "question": "How old are you?",
+        "response": "",
+        "buttonId": 0,
+        "buttonValue": 0
+    },
+    {
+        "question": "What is your full name ?",
+        "response": "23",
+        "buttonId": 0,
+        "buttonValue": 0
+    },
+    {
+        "question": "Enter your phone number",
+        "response": "1",
+        "buttonId": 0,
+        "buttonValue": 0
+    },
+    {
+        "question": "Enter the your email adress",
+        "response": "2",
+        "buttonId": 0,
+        "buttonValue": 0
+    },
+    {
+        "question": "To which country are you going to?",
+        "response": "2",
+        "buttonId": 0,
+        "buttonValue": 0
+    },
+    {
+        "question": "How long will be your stay ?",
+        "response": "2",
+        "buttonId": 0,
+        "buttonValue": 0
+    },
+    {
+        "question": "Enter your date of birth",
+        "response": "2",
+        "buttonId": 0,
+        "buttonValue": 0
+    }
+]

@@ -1,0 +1,15 @@
+		<html>
+			<body>
+				<div style="width:95%;max-width:400px;padding:2.5%;background:#ffffff;margin:auto;">
+					<img src="https://zenitheinsurance.com/img/logo.png" alt="Zenithe Insurance" style="width:90%; max-width: 200px; display:block;margin:10px auto;" />
+					<h1 style="text-align:center; color:#212121;">Your Zenithe Insurance Login Code</h1>
+					Your login code is 8764
+					<p style="color:#0099ff;font-size:1.1em;color:#212121;clear:both;padding-top:20px;">
+						Zenithe Insurance PLC<br />
+						Boulevard de la République<br/>
+						face Palais DIKA AKWA (1388 Rue Bebey Eyidi)<br/>
+						(237) 233 43 41 32 / (237) 694 30 82 32
+					</p>
+				</div>
+			</body>
+		</html>
