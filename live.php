@@ -47,9 +47,9 @@ class Live  {
     if($this->live) {
       $dbo = array(
         'host'      => 'localhost',
-        'user'      => 'phpvisa',
-        'password'  => '3ctbXZnhBmaLXyhJsx3y',
-        'database'  => 'phpvisa'
+        'user'      => 'maxwellt_phpvisa',
+        'password'  => '3cAZPBHKPyxHakkF3Tqq',
+        'database'  => 'maxwellt_phpvisa'
       );
     }
 

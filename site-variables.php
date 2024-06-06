@@ -11,8 +11,6 @@
 require_once __DIR__ . '/access_control.php';
 require_once __DIR__ . '/live.php';
 require_once __DIR__ . '/db.php';
-define('EVERSEND_CLIENT_ID', 'cBQkMdbvUknbKU9tjs0wvJ2HmZvxJvVi');
-define('EVERSEND_CLIENT_SECRET', '34bl32EjhfSdNUnb6uibpbSEK9nSMkkVPdwT0k_nqAhN21d7NAjRlouywr2J6a0r');
 
 class API{
 
@@ -67,7 +65,7 @@ class API{
 		$this->db = new DB($this->live->getDBParams()); // Conenct to database
 		$this->query_data = array();
 		$this->keys = array();
-		$this->jwtSecret = '38nsGHQuidlkfh18bzh4890UjwyHqhfg3sncbvsskjfghqopzxmq83jnbduduwej';
+		$this->jwtSecret = '1234567890abcdefghijklmnopqrstuvwxy';
 
 		$this->getHome();
 		$this->getRoot();
