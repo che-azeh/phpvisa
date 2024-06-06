@@ -19,7 +19,7 @@ class Live  {
    * @return string
    */
   public function getHome() {
-    return $this->live ? 'https://z.maxwelltechnologiesplc.com/' : 'http://localhost/zenitheinsurance/';
+    return $this->live ? 'https://blogvisa.com/' : 'http://localhost/phpvisa/';
   }
 
   /**
@@ -28,7 +28,7 @@ class Live  {
    * @return string
    */
   public function getRoot() {
-    return $this->live ? $_SERVER['DOCUMENT_ROOT'].'/' : $_SERVER['DOCUMENT_ROOT'].'/zenitheinsurance/';
+    return $this->live ? $_SERVER['DOCUMENT_ROOT'].'/' : $_SERVER['DOCUMENT_ROOT'].'/phpvisa/';
   }
 
   /**
@@ -40,16 +40,16 @@ class Live  {
     $dbo = array(
         'host'      => 'localhost',
         'user'      => 'root',
-        'password'  => 'growthisconstant',
-        'database'  => 'zenitheinsurance'
+        'password'  => '12345',
+        'database'  => 'phpvisa'
     );
 
     if($this->live) {
       $dbo = array(
         'host'      => 'localhost',
-        'user'      => 'maxwelltechnologiesplc_zenithe',
+        'user'      => 'phpvisa',
         'password'  => '3ctbXZnhBmaLXyhJsx3y',
-        'database'  => 'maxwelltechnologiesplc_zenithe'
+        'database'  => 'phpvisa'
       );
     }
 
